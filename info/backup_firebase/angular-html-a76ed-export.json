@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "instagram" : "http://www.instagram.com",
+    "nombre" : "Denis Alayza",
+    "subtitulo" : "Developer WEB",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-a76ed.appspot.com/o/team-1.jpg?alt=media&token=897e5e8e-ad62-44cb-bae6-bb773860178a"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "instagram" : "http://www.instagram.com",
+    "nombre" : "Desiree Borges",
+    "subtitulo" : "Founder / CEO",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-a76ed.appspot.com/o/team-2.jpg?alt=media&token=f0756417-c0b8-4f99-92f3-72531ac777b9"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "instagram" : "http://www.instagram.com",
+    "nombre" : "Luis Borges",
+    "subtitulo" : "Art Director",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-a76ed.appspot.com/o/team-3.jpg?alt=media&token=ede011d2-d460-4ead-9f0a-4992d508ff8c"
+  } ]
+}
